@@ -1,0 +1,6 @@
+DS Linkd List
+
+Linked list has two main benfits over an array
+
+1. You dont need to pre allocate space
+2. Insertion is easier 
